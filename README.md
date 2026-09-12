@@ -2,60 +2,33 @@
 
 
 
-# [Project Name] 🎯
+# You snooze, you lose 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Jaaf
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Afsal ahammed - Ace college of engineering Thiruvananthapuram 
+- Member 2: Jasmine - Ace college of engineering Thiruvananthapuram 
 
 ### Project Description
-[2-3 lines about what your project does]
+A video game where we have to beat the game by inconvenient methods
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+- ESP32,LED panel, switch,jumperwires
+- RGB LED panel,ESP32
+- Arduino IDE
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -71,8 +44,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components]pics
+Led matrix panel, 5V adapter, jumpers, ESP32,push buttons.
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
@@ -85,13 +58,9 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Afsal Ahammed: Hardware and assembly 
+- Jasmine: Programming and assembly
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
