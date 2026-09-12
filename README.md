@@ -60,7 +60,7 @@ A video game where the character in it only jumps when the player jumps in real 
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+The video demonstrates the working of our game in which the game starts when the player stands sits down. the character in game can only jump when the player jumps in real life. the platforms can be seen on the led screen as lyrics to songs. buttons are used as pressure plates on the chair and it senses the player standing up and sitting down.
 
 ## Team Contributions
 - Afsal Ahammed: Hardware and assembly 
